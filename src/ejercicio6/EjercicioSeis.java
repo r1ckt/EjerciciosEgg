@@ -1,3 +1,7 @@
+/*
+Implementar un programa que dado dos números enteros determine cuál es el
+mayor y lo muestre por pantalla.
+*/
 package ejercicio6;
 
 import java.util.Locale;

@@ -1,3 +1,8 @@
+/*
+Escribir un programa que pida tu nombre, lo guarde en una variable y lo muestre
+por pantalla
+*/
+
 package ejercicio2;
 
 import java.util.Locale;

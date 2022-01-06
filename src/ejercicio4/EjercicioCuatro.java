@@ -1,3 +1,7 @@
+/*
+Dada una cantidad de grados centígrados se debe mostrar su equivalente en
+grados Fahrenheit.
+*/
 package ejercicio4;
 
 import java.util.Locale;

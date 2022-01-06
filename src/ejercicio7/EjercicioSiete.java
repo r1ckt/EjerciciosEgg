@@ -1,3 +1,6 @@
+/*
+Crear un programa que dado un numero determine si es par o impar.
+*/
 package ejercicio7;
 
 import java.util.Locale;

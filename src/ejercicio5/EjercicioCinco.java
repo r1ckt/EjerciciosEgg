@@ -1,3 +1,7 @@
+/*
+Escribir un programa que lea un número entero por teclado y muestre por pantalla
+el doble, el triple y la raíz cuadrada de ese número.
+*/
 package ejercicio5;
 
 import java.util.Locale;
